@@ -18,6 +18,12 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+
 }
 
 ul {
@@ -91,7 +97,7 @@ button {
 }
 
 button:hover {
-    background-color: #85b2fa;
+    background-color: #8a461b;
 }
 
 .hero-text button {
